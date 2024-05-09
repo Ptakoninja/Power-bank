@@ -1,13 +1,85 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\bubuj\Desktop\elektronika\altium\PCB_Project\PCB_PB.pcbdoc
-Date     : 06.05.2024
-Time     : 20:53:06
+Date     : 09.05.2024
+Time     : 13:30:45
 
 Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
-Rule Violations :0
+   Violation between Clearance Constraint: (Collision < 10mil) Between Hole of Pad USBC-17(3025.748mil,3114.776mil) on Multi-Layer And Pad USBC-13(3025.748mil,3130.276mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Hole of Pad USBC-18(3025.748mil,3145.776mil) on Multi-Layer And Pad USBC-13(3025.748mil,3130.276mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Pad USBC-13(3025.748mil,3130.276mil) on Multi-Layer And Track (3025.748mil,3114.776mil)(3025.748mil,3145.776mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Hole of Pad USBC-19(2583.228mil,3114.776mil) on Multi-Layer And Pad USBC-14(2583.228mil,3130.276mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Hole of Pad USBC-20(2583.228mil,3145.776mil) on Multi-Layer And Pad USBC-14(2583.228mil,3130.276mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Pad USBC-14(2583.228mil,3130.276mil) on Multi-Layer And Track (2583.228mil,3114.776mil)(2583.228mil,3145.776mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Hole of Pad USBC-21(3025.748mil,3264.256mil) on Multi-Layer And Pad USBC-15(3025.748mil,3287.756mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Hole of Pad USBC-22(3025.748mil,3311.256mil) on Multi-Layer And Pad USBC-15(3025.748mil,3287.756mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Pad USBC-15(3025.748mil,3287.756mil) on Multi-Layer And Track (3025.748mil,3264.256mil)(3025.748mil,3311.256mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Hole of Pad USBC-23(2583.228mil,3264.256mil) on Multi-Layer And Pad USBC-16(2583.228mil,3287.756mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Hole of Pad USBC-24(2583.228mil,3311.256mil) on Multi-Layer And Pad USBC-16(2583.228mil,3287.756mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Pad USBC-16(2583.228mil,3287.756mil) on Multi-Layer And Track (2583.228mil,3264.256mil)(2583.228mil,3311.256mil) on Multi-Layer 
+   Violation between Clearance Constraint: (4.655mil < 10mil) Between Hole of Pad USBC-17(3025.748mil,3114.776mil) on Multi-Layer And Polygon Region (26 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (4.655mil < 10mil) Between Hole of Pad USBC-17(3025.748mil,3114.776mil) on Multi-Layer And Polygon Region (45 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (4.655mil < 10mil) Between Hole of Pad USBC-18(3025.748mil,3145.776mil) on Multi-Layer And Polygon Region (26 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (4.655mil < 10mil) Between Hole of Pad USBC-18(3025.748mil,3145.776mil) on Multi-Layer And Polygon Region (45 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (4.655mil < 10mil) Between Hole of Pad USBC-19(2583.228mil,3114.776mil) on Multi-Layer And Polygon Region (26 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (4.655mil < 10mil) Between Hole of Pad USBC-19(2583.228mil,3114.776mil) on Multi-Layer And Polygon Region (45 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (4.655mil < 10mil) Between Hole of Pad USBC-20(2583.228mil,3145.776mil) on Multi-Layer And Polygon Region (26 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (4.655mil < 10mil) Between Hole of Pad USBC-20(2583.228mil,3145.776mil) on Multi-Layer And Polygon Region (45 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (4.655mil < 10mil) Between Hole of Pad USBC-21(3025.748mil,3264.256mil) on Multi-Layer And Polygon Region (26 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (4.655mil < 10mil) Between Hole of Pad USBC-21(3025.748mil,3264.256mil) on Multi-Layer And Polygon Region (45 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (4.655mil < 10mil) Between Hole of Pad USBC-22(3025.748mil,3311.256mil) on Multi-Layer And Polygon Region (26 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (4.655mil < 10mil) Between Hole of Pad USBC-22(3025.748mil,3311.256mil) on Multi-Layer And Polygon Region (45 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (4.655mil < 10mil) Between Hole of Pad USBC-23(2583.228mil,3264.256mil) on Multi-Layer And Polygon Region (26 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (4.655mil < 10mil) Between Hole of Pad USBC-23(2583.228mil,3264.256mil) on Multi-Layer And Polygon Region (45 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (4.655mil < 10mil) Between Hole of Pad USBC-24(2583.228mil,3311.256mil) on Multi-Layer And Polygon Region (26 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (4.655mil < 10mil) Between Hole of Pad USBC-24(2583.228mil,3311.256mil) on Multi-Layer And Polygon Region (45 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Hole of Pad USBm-S_1_H1(3676.5mil,2081.575mil) on Multi-Layer And Pad USBm-S_1(3690mil,2081.575mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Hole of Pad USBm-S_1_H2(3703.5mil,2081.575mil) on Multi-Layer And Pad USBm-S_1(3690mil,2081.575mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Pad USBm-S_1(3690mil,2081.575mil) on Multi-Layer And Track (3676.5mil,2081.575mil)(3703.5mil,2081.575mil) on Multi-Layer 
+   Violation between Clearance Constraint: (7.202mil < 10mil) Between Hole of Pad USBm-S_1_H1(3676.5mil,2081.575mil) on Multi-Layer And Polygon Region (26 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (7.202mil < 10mil) Between Hole of Pad USBm-S_1_H1(3676.5mil,2081.575mil) on Multi-Layer And Polygon Region (45 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (7.202mil < 10mil) Between Hole of Pad USBm-S_1_H2(3703.5mil,2081.575mil) on Multi-Layer And Polygon Region (26 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (7.202mil < 10mil) Between Hole of Pad USBm-S_1_H2(3703.5mil,2081.575mil) on Multi-Layer And Polygon Region (45 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Hole of Pad USBm-S_2_H1(3676.5mil,2357.165mil) on Multi-Layer And Pad USBm-S_2(3690mil,2357.165mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 10mil) Between Hole of Pad USBm-S_2_H2(3703.5mil,2357.165mil) on Multi-Layer And Pad USBm-S_2(3690mil,2357.165mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 5mil) Between Pad USBm-S_2(3690mil,2357.165mil) on Multi-Layer And Track (3676.5mil,2357.165mil)(3703.5mil,2357.165mil) on Multi-Layer 
+   Violation between Clearance Constraint: (7.202mil < 10mil) Between Hole of Pad USBm-S_2_H1(3676.5mil,2357.165mil) on Multi-Layer And Polygon Region (26 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (7.202mil < 10mil) Between Hole of Pad USBm-S_2_H1(3676.5mil,2357.165mil) on Multi-Layer And Polygon Region (45 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (7.202mil < 10mil) Between Hole of Pad USBm-S_2_H2(3703.5mil,2357.165mil) on Multi-Layer And Polygon Region (26 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (7.202mil < 10mil) Between Hole of Pad USBm-S_2_H2(3703.5mil,2357.165mil) on Multi-Layer And Polygon Region (45 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (4.655mil < 20mil) Between Polygon Region (26 hole(s)) Top Layer And Track (2583.228mil,3114.776mil)(2583.228mil,3145.776mil) on Multi-Layer 
+   Violation between Clearance Constraint: (4.655mil < 20mil) Between Polygon Region (26 hole(s)) Top Layer And Track (2583.228mil,3264.256mil)(2583.228mil,3311.256mil) on Multi-Layer 
+   Violation between Clearance Constraint: (4.655mil < 20mil) Between Polygon Region (26 hole(s)) Top Layer And Track (3025.748mil,3114.776mil)(3025.748mil,3145.776mil) on Multi-Layer 
+   Violation between Clearance Constraint: (4.655mil < 20mil) Between Polygon Region (26 hole(s)) Top Layer And Track (3025.748mil,3264.256mil)(3025.748mil,3311.256mil) on Multi-Layer 
+   Violation between Clearance Constraint: (7.202mil < 20mil) Between Polygon Region (26 hole(s)) Top Layer And Track (3676.5mil,2081.575mil)(3703.5mil,2081.575mil) on Multi-Layer 
+   Violation between Clearance Constraint: (7.202mil < 20mil) Between Polygon Region (26 hole(s)) Top Layer And Track (3676.5mil,2357.165mil)(3703.5mil,2357.165mil) on Multi-Layer 
+   Violation between Clearance Constraint: (4.655mil < 20mil) Between Polygon Region (45 hole(s)) Bottom Layer And Track (2583.228mil,3114.776mil)(2583.228mil,3145.776mil) on Multi-Layer 
+   Violation between Clearance Constraint: (4.655mil < 20mil) Between Polygon Region (45 hole(s)) Bottom Layer And Track (2583.228mil,3264.256mil)(2583.228mil,3311.256mil) on Multi-Layer 
+   Violation between Clearance Constraint: (4.655mil < 20mil) Between Polygon Region (45 hole(s)) Bottom Layer And Track (3025.748mil,3114.776mil)(3025.748mil,3145.776mil) on Multi-Layer 
+   Violation between Clearance Constraint: (4.655mil < 20mil) Between Polygon Region (45 hole(s)) Bottom Layer And Track (3025.748mil,3264.256mil)(3025.748mil,3311.256mil) on Multi-Layer 
+   Violation between Clearance Constraint: (7.202mil < 20mil) Between Polygon Region (45 hole(s)) Bottom Layer And Track (3676.5mil,2081.575mil)(3703.5mil,2081.575mil) on Multi-Layer 
+   Violation between Clearance Constraint: (7.202mil < 20mil) Between Polygon Region (45 hole(s)) Bottom Layer And Track (3676.5mil,2357.165mil)(3703.5mil,2357.165mil) on Multi-Layer 
+Rule Violations :54
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
-Rule Violations :0
+   Violation between Short-Circuit Constraint: Between Pad USBC-13(3025.748mil,3130.276mil) on Multi-Layer And Pad USBC-17(3025.748mil,3114.776mil) on Multi-Layer Location : [X = 3025.748mil][Y = 3114.776mil]
+   Violation between Short-Circuit Constraint: Between Pad USBC-13(3025.748mil,3130.276mil) on Multi-Layer And Pad USBC-18(3025.748mil,3145.776mil) on Multi-Layer Location : [X = 3025.748mil][Y = 3145.776mil]
+   Violation between Short-Circuit Constraint: Between Pad USBC-13(3025.748mil,3130.276mil) on Multi-Layer And Track (3025.748mil,3114.776mil)(3025.748mil,3145.776mil) on Multi-Layer Location : [X = 3025.748mil][Y = 3130.276mil]
+   Violation between Short-Circuit Constraint: Between Pad USBC-14(2583.228mil,3130.276mil) on Multi-Layer And Pad USBC-19(2583.228mil,3114.776mil) on Multi-Layer Location : [X = 2583.228mil][Y = 3114.776mil]
+   Violation between Short-Circuit Constraint: Between Pad USBC-14(2583.228mil,3130.276mil) on Multi-Layer And Pad USBC-20(2583.228mil,3145.776mil) on Multi-Layer Location : [X = 2583.228mil][Y = 3145.776mil]
+   Violation between Short-Circuit Constraint: Between Pad USBC-14(2583.228mil,3130.276mil) on Multi-Layer And Track (2583.228mil,3114.776mil)(2583.228mil,3145.776mil) on Multi-Layer Location : [X = 2583.228mil][Y = 3130.276mil]
+   Violation between Short-Circuit Constraint: Between Pad USBC-15(3025.748mil,3287.756mil) on Multi-Layer And Pad USBC-21(3025.748mil,3264.256mil) on Multi-Layer Location : [X = 3025.748mil][Y = 3264.256mil]
+   Violation between Short-Circuit Constraint: Between Pad USBC-15(3025.748mil,3287.756mil) on Multi-Layer And Pad USBC-22(3025.748mil,3311.256mil) on Multi-Layer Location : [X = 3025.748mil][Y = 3311.256mil]
+   Violation between Short-Circuit Constraint: Between Pad USBC-15(3025.748mil,3287.756mil) on Multi-Layer And Track (3025.748mil,3264.256mil)(3025.748mil,3311.256mil) on Multi-Layer Location : [X = 3025.748mil][Y = 3287.756mil]
+   Violation between Short-Circuit Constraint: Between Pad USBC-16(2583.228mil,3287.756mil) on Multi-Layer And Pad USBC-23(2583.228mil,3264.256mil) on Multi-Layer Location : [X = 2583.228mil][Y = 3264.256mil]
+   Violation between Short-Circuit Constraint: Between Pad USBC-16(2583.228mil,3287.756mil) on Multi-Layer And Pad USBC-24(2583.228mil,3311.256mil) on Multi-Layer Location : [X = 2583.228mil][Y = 3311.256mil]
+   Violation between Short-Circuit Constraint: Between Pad USBC-16(2583.228mil,3287.756mil) on Multi-Layer And Track (2583.228mil,3264.256mil)(2583.228mil,3311.256mil) on Multi-Layer Location : [X = 2583.228mil][Y = 3287.756mil]
+   Violation between Short-Circuit Constraint: Between Pad USBm-S_1(3690mil,2081.575mil) on Multi-Layer And Pad USBm-S_1_H1(3676.5mil,2081.575mil) on Multi-Layer Location : [X = 3676.5mil][Y = 2081.575mil]
+   Violation between Short-Circuit Constraint: Between Pad USBm-S_1(3690mil,2081.575mil) on Multi-Layer And Pad USBm-S_1_H2(3703.5mil,2081.575mil) on Multi-Layer Location : [X = 3703.5mil][Y = 2081.575mil]
+   Violation between Short-Circuit Constraint: Between Pad USBm-S_1(3690mil,2081.575mil) on Multi-Layer And Track (3676.5mil,2081.575mil)(3703.5mil,2081.575mil) on Multi-Layer Location : [X = 3690mil][Y = 2081.575mil]
+   Violation between Short-Circuit Constraint: Between Pad USBm-S_2(3690mil,2357.165mil) on Multi-Layer And Pad USBm-S_2_H1(3676.5mil,2357.165mil) on Multi-Layer Location : [X = 3676.5mil][Y = 2357.165mil]
+   Violation between Short-Circuit Constraint: Between Pad USBm-S_2(3690mil,2357.165mil) on Multi-Layer And Pad USBm-S_2_H2(3703.5mil,2357.165mil) on Multi-Layer Location : [X = 3703.5mil][Y = 2357.165mil]
+   Violation between Short-Circuit Constraint: Between Pad USBm-S_2(3690mil,2357.165mil) on Multi-Layer And Track (3676.5mil,2357.165mil)(3703.5mil,2357.165mil) on Multi-Layer Location : [X = 3690mil][Y = 2357.165mil]
+Rule Violations :18
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
 Rule Violations :0
@@ -26,10 +98,14 @@ Rule Violations :0
 
 Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
    Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad Free-(2250mil,1660mil) on Multi-Layer And Pad Free-(2253.054mil,1657.921mil) on Multi-Layer Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (3mil < 10mil) Between Pad USBC-13(3025.748mil,3130.276mil) on Multi-Layer And Pad USBC-17(3025.748mil,3114.776mil) on Multi-Layer 
-   Violation between Hole To Hole Clearance Constraint: (3mil < 10mil) Between Pad USBC-13(3025.748mil,3130.276mil) on Multi-Layer And Pad USBC-18(3025.748mil,3145.776mil) on Multi-Layer 
-   Violation between Hole To Hole Clearance Constraint: (3mil < 10mil) Between Pad USBC-14(2583.228mil,3130.276mil) on Multi-Layer And Pad USBC-19(2583.228mil,3114.776mil) on Multi-Layer 
-   Violation between Hole To Hole Clearance Constraint: (3mil < 10mil) Between Pad USBC-14(2583.228mil,3130.276mil) on Multi-Layer And Pad USBC-20(2583.228mil,3145.776mil) on Multi-Layer 
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad USBC-13(3025.748mil,3130.276mil) on Multi-Layer And Pad USBC-17(3025.748mil,3114.776mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad USBC-13(3025.748mil,3130.276mil) on Multi-Layer And Pad USBC-18(3025.748mil,3145.776mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad USBC-14(2583.228mil,3130.276mil) on Multi-Layer And Pad USBC-19(2583.228mil,3114.776mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad USBC-14(2583.228mil,3130.276mil) on Multi-Layer And Pad USBC-20(2583.228mil,3145.776mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad USBC-15(3025.748mil,3287.756mil) on Multi-Layer And Pad USBC-21(3025.748mil,3264.256mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad USBC-15(3025.748mil,3287.756mil) on Multi-Layer And Pad USBC-22(3025.748mil,3311.256mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad USBC-16(2583.228mil,3287.756mil) on Multi-Layer And Pad USBC-23(2583.228mil,3264.256mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad USBC-16(2583.228mil,3287.756mil) on Multi-Layer And Pad USBC-24(2583.228mil,3311.256mil) on Multi-Layer Pad/Via Touching Holes
    Violation between Hole To Hole Clearance Constraint: (7mil < 10mil) Between Pad USBC-17(3025.748mil,3114.776mil) on Multi-Layer And Pad USBC-18(3025.748mil,3145.776mil) on Multi-Layer 
    Violation between Hole To Hole Clearance Constraint: (7mil < 10mil) Between Pad USBC-19(2583.228mil,3114.776mil) on Multi-Layer And Pad USBC-20(2583.228mil,3145.776mil) on Multi-Layer 
    Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad USBm-S_1(3690mil,2081.575mil) on Multi-Layer And Pad USBm-S_1_H1(3676.5mil,2081.575mil) on Multi-Layer Pad/Via Touching Holes
@@ -38,7 +114,7 @@ Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
    Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad USBm-S_2(3690mil,2357.165mil) on Multi-Layer And Pad USBm-S_2_H1(3676.5mil,2357.165mil) on Multi-Layer Pad/Via Touching Holes
    Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad USBm-S_2(3690mil,2357.165mil) on Multi-Layer And Pad USBm-S_2_H2(3703.5mil,2357.165mil) on Multi-Layer Pad/Via Touching Holes
    Violation between Hole To Hole Clearance Constraint: (1mil < 10mil) Between Pad USBm-S_2_H1(3676.5mil,2357.165mil) on Multi-Layer And Pad USBm-S_2_H2(3703.5mil,2357.165mil) on Multi-Layer 
-Rule Violations :13
+Rule Violations :17
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (Disabled)(OnLayer('Top Layer')),(All)
 Rule Violations :0
@@ -56,6 +132,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 13
+Violations Detected : 89
 Waived Violations : 0
 Time Elapsed        : 00:00:01

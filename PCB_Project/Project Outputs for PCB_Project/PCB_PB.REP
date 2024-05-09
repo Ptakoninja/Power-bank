@@ -2,10 +2,8 @@
 FileName = PCB_PB.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Paste
-      File : PCB_PB.GBP
-
-    Adding Layer      : Bottom Paste
+Generating : Bottom Layer
+      File : PCB_PB.GBL
 
     Adding Layer      : Bottom Layer
 
@@ -13,7 +11,25 @@ Generating : Bottom Paste
 
 
 Used DCodes :
+    D10
+    D11
     D22
+    D54
+    D55
+    D56
+    D59
+    D60
+    D66
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
     D80
     D81
 *************************************************************
@@ -51,6 +67,24 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Top Overlay
+      File : PCB_PB.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
 Generating : Bottom Solder
       File : PCB_PB.GBS
 
@@ -75,115 +109,6 @@ Used DCodes :
     D63
     D82
     D83
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : PCB_PB.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D20
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : PCB_PB.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D13
-    D15
-    D84
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : PCB_PB.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : PCB_PB.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D11
-    D22
-    D54
-    D55
-    D56
-    D59
-    D60
-    D66
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
 *************************************************************
 
 *************************************************************
@@ -240,11 +165,87 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Paste
+      File : PCB_PB.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D80
+    D81
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : PCB_PB.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D13
+    D17
+    D84
+    D85
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : PCB_PB.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+*************************************************************
+
+*************************************************************
 Generating : Profile
       File : PCB_PB.GM
 
 
 Used DCodes :
-    D85
+    D86
 *************************************************************
 
