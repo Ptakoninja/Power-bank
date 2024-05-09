@@ -1,0 +1,61 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\bubuj\Desktop\elektronika\altium\PCB_Project\PCB_PB.pcbdoc
+Date     : 06.05.2024
+Time     : 20:53:06
+
+Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=100mil) (Preferred=40mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad Free-(2250mil,1660mil) on Multi-Layer And Pad Free-(2253.054mil,1657.921mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (3mil < 10mil) Between Pad USBC-13(3025.748mil,3130.276mil) on Multi-Layer And Pad USBC-17(3025.748mil,3114.776mil) on Multi-Layer 
+   Violation between Hole To Hole Clearance Constraint: (3mil < 10mil) Between Pad USBC-13(3025.748mil,3130.276mil) on Multi-Layer And Pad USBC-18(3025.748mil,3145.776mil) on Multi-Layer 
+   Violation between Hole To Hole Clearance Constraint: (3mil < 10mil) Between Pad USBC-14(2583.228mil,3130.276mil) on Multi-Layer And Pad USBC-19(2583.228mil,3114.776mil) on Multi-Layer 
+   Violation between Hole To Hole Clearance Constraint: (3mil < 10mil) Between Pad USBC-14(2583.228mil,3130.276mil) on Multi-Layer And Pad USBC-20(2583.228mil,3145.776mil) on Multi-Layer 
+   Violation between Hole To Hole Clearance Constraint: (7mil < 10mil) Between Pad USBC-17(3025.748mil,3114.776mil) on Multi-Layer And Pad USBC-18(3025.748mil,3145.776mil) on Multi-Layer 
+   Violation between Hole To Hole Clearance Constraint: (7mil < 10mil) Between Pad USBC-19(2583.228mil,3114.776mil) on Multi-Layer And Pad USBC-20(2583.228mil,3145.776mil) on Multi-Layer 
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad USBm-S_1(3690mil,2081.575mil) on Multi-Layer And Pad USBm-S_1_H1(3676.5mil,2081.575mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad USBm-S_1(3690mil,2081.575mil) on Multi-Layer And Pad USBm-S_1_H2(3703.5mil,2081.575mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (1mil < 10mil) Between Pad USBm-S_1_H1(3676.5mil,2081.575mil) on Multi-Layer And Pad USBm-S_1_H2(3703.5mil,2081.575mil) on Multi-Layer 
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad USBm-S_2(3690mil,2357.165mil) on Multi-Layer And Pad USBm-S_2_H1(3676.5mil,2357.165mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad USBm-S_2(3690mil,2357.165mil) on Multi-Layer And Pad USBm-S_2_H2(3703.5mil,2357.165mil) on Multi-Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (1mil < 10mil) Between Pad USBm-S_2_H1(3676.5mil,2357.165mil) on Multi-Layer And Pad USBm-S_2_H2(3703.5mil,2357.165mil) on Multi-Layer 
+Rule Violations :13
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (Disabled)(OnLayer('Top Layer')),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=2mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (InNet('GND'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 13
+Waived Violations : 0
+Time Elapsed        : 00:00:01
